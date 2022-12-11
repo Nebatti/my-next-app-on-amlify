@@ -1,4 +1,4 @@
-export default function Home ({ formatedDate }) {
+export default function Home ({ formattedDate }) {
   return (
     <>
       <h1>Static page</h1>
